@@ -13,27 +13,27 @@ This project is to predict the app popularity for the apps from google app store
     <td>Application name</td>
   </tr>
   <tr>
-    <td>Category a</td>
+    <td>Category</td>
     <td>Category the app belongs to</td>
   </tr>
   <tr>
-    <td>Rating a</td>
+    <td>Rating </td>
     <td>Overall user rating of the app (as when scraped)</td>
   </tr>
   <tr>
-    <th>Reviews</th>
-    <th>Number of user reviews for the app (as when scraped)</th>
+    <td>Reviews</td>
+    <td>Number of user reviews for the app (as when scraped)</td>
   </tr>
   <tr>
     <td>Size</td>
     <td>Size of the app (as when scraped)</td>
   </tr>
   <tr>
-    <td>Installs a</td>
+    <td>Installs </td>
     <td>Number of user downloads/installs for the app (as when scraped)</td>
   </tr>
   <tr>
-    <td>Type a</td>
+    <td>Type </td>
     <td>Paid or Free</td>
   </tr>
   <tr>
@@ -41,11 +41,11 @@ This project is to predict the app popularity for the apps from google app store
     <td>Price of the app (as when scraped)</td>
   </tr>
   <tr>
-    <td>Content Rating a</td>
+    <td>Content Rating</td>
     <td>Age group the app is targeted at - Children / Mature 21+ / Adult</td>
   </tr>
   <tr>
-    <td>Genres a</td>
+    <td>Genres </td>
     <td>An app can belong to multiple genres (apart from its main category). For eg, a musical family game will belong to</td>
   </tr>
 <table>
