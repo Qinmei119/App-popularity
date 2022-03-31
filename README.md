@@ -3,6 +3,28 @@ This project is to predict the app popularity for the apps from google app store
 
 
 ## Columns
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Decription</th>
+  </tr>
+  <tr>
+    <td>App</td>
+    <td>Application name</td>
+  </tr>
+  <tr>
+    <td>Category a</td>
+    <td>Category the app belongs to</td>
+  </tr>
+  <tr>
+    <td>Category a</td>
+    <td>Category the app belongs to</td>
+  </tr>
+  
+  
+  
+</table>
+
 ### App 
 Application name
 ### Category 
